@@ -1,6 +1,15 @@
+Hackintosh for X230 (Big Sur)
+==
+
 System Info
 =====
+* Opencore : 0.6.6
+* OS       : macOS Big Sur 11.4
+* CPU      : i5-3320M
+* Graphics : Intel HD Graphics 4000
+* Wlan/Bt  : DW1520
 
+* Clover
 * OS : macOS Mojave 10.14.6
 * CPU : i5-3320M
 * Graphics : Intel HD Graphics 4000
