@@ -7,7 +7,7 @@ System Info
 * OS       : macOS Big Sur 11.4
 * CPU      : i5-3320M
 * Graphics : Intel HD Graphics 4000
-* Wlan/Bt  : DW1520
+* Wlan/BT  : DW1520
 
 =====
 * Clover
