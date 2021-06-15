@@ -9,6 +9,7 @@ System Info
 * Graphics : Intel HD Graphics 4000
 * Wlan/Bt  : DW1520
 
+=====
 * Clover
 * OS : macOS Mojave 10.14.6
 * CPU : i5-3320M
